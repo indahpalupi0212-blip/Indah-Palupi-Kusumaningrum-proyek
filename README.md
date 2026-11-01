@@ -52,6 +52,9 @@ Indah-Palupi-Kusumaningrum-proyek/
 │   └── contoh_data.txt
 ├── docs/
 │   └── screenshot/
+│       └── hasil_program_berhasil.png
+├── output/
+│   └── laporan_nilai.txt
 ├── src/
 │   ├── __init__.py
 │   ├── input_data.py
@@ -120,9 +123,8 @@ Detail test case dan hasil pengujian terdapat pada folder `tests`.
 ## 11. Repository GitHub
 
 Repository proyek:
-
-https://github.com/indahpalupi0212-blip/proyek-akhir-indah-palupi
+https://github.com/indahpalupi0212-blip/Indah-Palupi-Kusumaningrum-proyek.git
 
 ## 12. Status Proyek
 
-Tahap implementasi, pengujian, debugging, dan dokumentasi proyek.
+Proyek telah melalui tahap implementasi, pengujian, debugging, dan dokumentasi.
