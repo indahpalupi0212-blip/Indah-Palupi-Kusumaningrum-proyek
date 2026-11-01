@@ -1,0 +1,17 @@
+LAPORAN ANALISIS NILAI MATEMATIKA
+=================================
+
+DAFTAR NILAI SISWA
+------------------
+A001 - Ayu - 80.0 - Tuntas
+A002 - Budi - 85.0 - Tuntas
+A003 - Citra - 90.0 - Tuntas
+
+RINGKASAN HASIL
+---------------
+Jumlah siswa       : 3
+Rata-rata nilai    : 85.00
+Nilai tertinggi    : 90.0
+Nilai terendah     : 80.0
+Siswa tuntas       : 3
+Siswa belum tuntas : 0

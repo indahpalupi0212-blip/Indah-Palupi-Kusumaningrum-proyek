@@ -1,0 +1,19 @@
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Pengaturan lokal VS Code
+.vscode/
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# File sementara
+*.tmp
+*.log
